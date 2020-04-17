@@ -226,7 +226,7 @@ LocHelpText=""
 LocPromotionPopupText="TBC............"
 
 [CommandRange2 X2AbilityTemplate]
-LocFriendlyName="Дальность приказа 2"
+LocFriendlyName="Радиус командования 2"
 LocLongDescription="Увеличивает радиус командования офицера на 2 клетки"
 LocHelpText=""
 LocPromotionPopupText="TBC............"
